@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/03/26 12:55:07.000.472,=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/28 13:10:04.000.695,=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/28 13:12:47.000.300,=C:\Users\Rudra\Documents\Embarcadero\Studio\37.0\Imports\SpeechLib_TLB.pas</Transaction>
+    <Transaction>2026/03/28 13:13:14.000.526,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Win_T2S.dproj=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/03/28 13:13:37.000.149,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\WinT2S.dproj=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Win_T2S.dproj</Transaction>
+    <Transaction>2026/03/28 13:14:00.000.374,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\WinT2S\Unit1.pas=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/28 13:14:00.000.374,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\WinT2S\Unit1.dfm=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/03/28 13:14:03.000.364,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\WinT2S\WinT2S.dproj=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\WinT2S.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
